@@ -1,0 +1,4 @@
+;; Evil Mode
+(use-package evil
+  :ensure t
+  :init (evil-mode))
